@@ -41,7 +41,7 @@ python ./source/quantum_models/QuantumNN.py
 ```
 This will run the default model (Strongly Entangling Layers circuit). To run the (Matrix Product State circuit), you need to set MPS = True in __name__ == '__main__'
 
-**The models above will be saved in the directory: `save/` and their performance stored in the directory: `result/` **
+** The models above will be saved in the directory: `save/` and their performance stored in the directory: `result/` **
 
 FOR THE CONVOLUTION
 
