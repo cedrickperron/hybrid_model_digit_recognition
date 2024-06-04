@@ -1,16 +1,13 @@
 # My Project
 
-Compare an hybrid (classical-quantum) machine learning model to a classical machine learning model for digit recognition.
+Use a hybrid classical quantum neural networks for digit recognition system. Thus far, our results for the quantum neural networks are incapable of predicting accurately validation data.
 
-Also, we compare a quantum convolution to a classical convolution of the image.
+We also build a quantvolution network (in jupyter file). The images are stored in
 
 For our code, we take the framework of arxiv:2304.09224 (Quantum machine learning for image classification by Arsenii Senokosov, Alexander Sedykh, Asel Sagingalieva, and Alexey Melnikov)
 
 ## Installation
 
-pip install tensorflow==2.12.0
-
-pip install pennylane==0.34.0
 
 ## Usage
 
