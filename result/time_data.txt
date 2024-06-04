@@ -1,0 +1,3 @@
+
+KNNClassifier     25.929683923721313
+QuantumNeuralNetwork SEL     1866.507609128952

@@ -1,0 +1,3 @@
+
+KNNClassifier     1.0000     0.9385     None
+QuantumNeuralNetwork_SEL     0.8933     0.8613     750
