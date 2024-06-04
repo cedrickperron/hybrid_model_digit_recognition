@@ -2,9 +2,9 @@
 
 Use a hybrid classical quantum neural networks for digit recognition system. Thus far, our results for the quantum neural networks are incapable of predicting accurately validation data.
 
-We also build a quantvolution network (in jupyter file). The images are stored in
+We also build a quantvolution network (in jupyter file). The images are stored in quantumconvol/.
 
-For our code, we take the framework of arxiv:2304.09224 (Quantum machine learning for image classification by Arsenii Senokosov, Alexander Sedykh, Asel Sagingalieva, and Alexey Melnikov)
+For our code, we take the framework of arxiv:2304.09224 (Quantum machine learning for image classification by Arsenii Senokosov, Alexander Sedykh, Asel Sagingalieva, and Alexey Melnikov). Their architecture and results are inconsistent with the natural world.
 
 ## Installation
 
